@@ -1,4 +1,4 @@
-I’m @3file, A Web 3.0 universal vault that holds all your Web 3.0 assets, here and forever.
+@3file, A Web 3.0 universal vault that holds all your Web 3.0 assets, here and forever.
 
 1. We addresses sharing privacy and earning
 2. We store your files securely on IPFS
