@@ -4,3 +4,4 @@
 3. We help dummy user generate cross-chain NFTs with one click
 4. Sharing means earning as well
 
+![Image text](https://github.com/3file/3file/blob/eb57df8984b1138a8cd968f79f46dcb45509117b/logo.jpeg)
